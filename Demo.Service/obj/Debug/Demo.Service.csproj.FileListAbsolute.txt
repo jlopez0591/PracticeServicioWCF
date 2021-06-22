@@ -1,0 +1,11 @@
+D:\Development\NET\PracticeServicioWCF\Demo.Service\bin\Demo.Service.dll.config
+D:\Development\NET\PracticeServicioWCF\Demo.Service\bin\Demo.Service.dll
+D:\Development\NET\PracticeServicioWCF\Demo.Service\bin\Demo.Service.pdb
+D:\Development\NET\PracticeServicioWCF\Demo.Service\obj\Debug\Demo.Service.csproj.AssemblyReference.cache
+D:\Development\NET\PracticeServicioWCF\Demo.Service\obj\Debug\Demo.Service.csproj.CoreCompileInputs.cache
+D:\Development\NET\PracticeServicioWCF\Demo.Service\obj\Debug\Demo.Service.dll
+D:\Development\NET\PracticeServicioWCF\Demo.Service\obj\Debug\Demo.Service.pdb
+D:\Development\NET\PracticeServicioWCF\Demo.Service\bin\Web.ExternalService.config
+D:\Development\NET\PracticeServicioWCF\Demo.Service\bin\Demo.Core.Entities.dll
+D:\Development\NET\PracticeServicioWCF\Demo.Service\bin\Demo.Core.Entities.pdb
+D:\Development\NET\PracticeServicioWCF\Demo.Service\obj\Debug\Demo.Service.csproj.CopyComplete

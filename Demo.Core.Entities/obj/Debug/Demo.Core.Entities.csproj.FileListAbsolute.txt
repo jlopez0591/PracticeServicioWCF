@@ -1,0 +1,6 @@
+D:\Development\NET\PracticeServicioWCF\Demo.Core.Entities\bin\Debug\Demo.Core.Entities.dll
+D:\Development\NET\PracticeServicioWCF\Demo.Core.Entities\bin\Debug\Demo.Core.Entities.pdb
+D:\Development\NET\PracticeServicioWCF\Demo.Core.Entities\obj\Debug\Demo.Core.Entities.csproj.AssemblyReference.cache
+D:\Development\NET\PracticeServicioWCF\Demo.Core.Entities\obj\Debug\Demo.Core.Entities.csproj.CoreCompileInputs.cache
+D:\Development\NET\PracticeServicioWCF\Demo.Core.Entities\obj\Debug\Demo.Core.Entities.dll
+D:\Development\NET\PracticeServicioWCF\Demo.Core.Entities\obj\Debug\Demo.Core.Entities.pdb
